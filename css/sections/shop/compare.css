@@ -1,0 +1,24 @@
+.compare__table th,
+.compare__table td {
+  border: 1px solid var(--border-color-alt);
+  padding: 0.5rem;
+}
+
+.compare__table th {
+  color: var(--text-color-light);
+  font-size: var(--small-font-size);
+}
+
+.compare__table td {
+  text-align: center;
+}
+
+.compare__colors {
+  justify-content: center;
+}
+
+.table__stock,
+.table__weight,
+.table__dimension {
+  font-size: var(--small-font-size);
+}
